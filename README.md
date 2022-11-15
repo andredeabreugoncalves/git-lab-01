@@ -4,3 +4,7 @@ When you try to add an APT repository key using apt-key (first line in previous 
 The easiest way would be just to ignore it.
 
 But if you’re not OK with the warning, you can do followings
+
+
+
+ALTERADO
